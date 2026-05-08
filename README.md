@@ -12,7 +12,7 @@
 
 LUNA is a full-stack, NASA-style satellite intelligence platform that combines a real-time interactive 3D Earth globe, AI-powered natural-language querying via Claude, a comprehensive satellite database, orbital analytics, and an AI-generated space encyclopedia — all wrapped in a dark glassmorphism mission-control UI.
 
-[Live Demo](#) · [Report Bug](https://github.com/SaranAdhith/PROJECT-LUNA-/issues) · [Request Feature](https://github.com/SaranAdhith/PROJECT-LUNA-/issues)
+[Report Bug](https://github.com/SaranAdhith/PROJECT-LUNA-/issues) · [Request Feature](https://github.com/SaranAdhith/PROJECT-LUNA-/issues)
 
 </div>
 
@@ -218,7 +218,7 @@ luna/
 │   └── anthropic.ts              # LUNA_SYSTEM_PROMPT & ALIEN_SYSTEM_PROMPT
 ├── public/
 │   └── textures/                 # Earth texture maps for Three.js
-└── screenshots/                  # README screenshots (add your own)
+└── screenshots/                  # README screenshots
 ```
 
 ---
@@ -249,34 +249,6 @@ luna/
 | Font — Display | Syne | Headings and brand text |
 | Font — Mono | Space Mono | Labels, data readouts, terminal text |
 | Font — Body | DM Sans | UI copy and paragraphs |
-
----
-
-## Adding Screenshots
-
-To add screenshots to this README:
-
-1. Run `npm run dev` to start the local server
-2. Visit each route in your browser
-3. Take a screenshot of each page and save it as:
-
-```
-screenshots/
-  01-homepage.png
-  02-ai-agent.png
-  03-satellites.png
-  04-satellite-detail.png
-  05-graveyard.png
-  06-analytics.png
-  07-spacepedia.png
-```
-
-4. Commit the screenshots and push:
-```bash
-git add screenshots/
-git commit -m "Add screenshots"
-git push
-```
 
 ---
 
