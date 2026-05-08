@@ -1,18 +1,35 @@
-<div align="center">
+
 
 # 🌕 LUNA — Satellite Intelligence Platform
 
 **The Intelligence Layer for Earth's Orbit**
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-r169-black?style=for-the-badge&logo=threedotjs)](https://threejs.org/)
-[![Claude AI](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge)](https://www.anthropic.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
-
 LUNA is a full-stack, NASA-style satellite intelligence platform that combines a real-time interactive 3D Earth globe, AI-powered natural-language querying via Claude, a comprehensive satellite database, orbital analytics, and an AI-generated space encyclopedia — all wrapped in a dark glassmorphism mission-control UI.
 
-[Report Bug](https://github.com/SaranAdhith/PROJECT-LUNA-/issues) · [Request Feature](https://github.com/SaranAdhith/PROJECT-LUNA-/issues)
+LUNA transforms complex satellite and orbital data into a conversational, mission-control experience accessible to both researchers and everyday users. The platform combines real-time visualization, AI reasoning, and Earth observation intelligence into a single unified interface.
+
+🛰 Real-Time Satellite Tracking
+Live orbital visualization of active satellites around Earth
+Dynamic trajectory rendering with orbital path prediction
+Satellite categorization by mission type, country, and operator
+Real-time telemetry-inspired UI panels and mission feed
+
+🤖 Ask LUNA — AI Space Assistant
+Natural-language satellite querying powered by Claude
+Ask questions like:
+“Which satellites are above India right now?”
+“Show inactive satellites from NASA”
+“Track weather satellites over the Pacific”
+
+Earth Observation & Detection
+
+LUNA supports AI-assisted Earth monitoring using satellite imagery:
+
+Ship detection
+Wildfire monitoring
+Flood analysis
+Urban growth tracking
+Deforestation detection
 
 </div>
 
@@ -20,23 +37,24 @@ LUNA is a full-stack, NASA-style satellite intelligence platform that combines a
 
 ## Table of Contents
 
-- [Screenshots](#screenshots)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Pages & Routes](#pages--routes)
-- [Environment Variables](#environment-variables)
-- [License](#license)
+- [Features]
+- [Tech Stack]
+- [Getting Started]
+- [Project Structure]
+- [Pages & Routes]
+- [Environment Variables]
+- [License]
 
 ---
 
-## Screenshots
+## INTERDUCING LUNA 
 
 ### 🌍 Homepage — Interactive Earth Globe
 > Full-screen Three.js Earth with live orbital feed, space weather panel, mission tracker, and the Ask LUNA search bar.
 
-![Homepage](screenshots/01-homepage.png)
+
+<img width="1920" height="1089" alt="Screenshot (840)" src="https://github.com/user-attachments/assets/0d821bf5-cfb9-49ab-af0b-ca8f6a7866bf" />
+
 
 ---
 
